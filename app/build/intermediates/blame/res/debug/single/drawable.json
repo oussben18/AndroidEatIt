@@ -1,0 +1,890 @@
+[
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd699a0af91037521b14c8154559d6591862ca89\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd699a0af91037521b14c8154559d6591862ca89\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_background.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shopping_cart_black_24dp.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_background.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_restaurant_black_24dp.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_restaurant_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_restaurant_black_24dp.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_restaurant_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attach_money_black_24dp.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attach_money_black_24dp.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\cca26cd775fe5bf344d8b53e8f2a1b831b15558c\\output\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd699a0af91037521b14c8154559d6591862ca89\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9aeb3853186ce93cf78f71603dd37b73609675c3\\output\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_access_time_black_24dp.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_snackbar_background.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_access_time_black_24dp.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\cd8ab0ca93ee4c2ff971378f729a7ea6fd67edd3\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_restaurant_black_24dp.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_restaurant_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corners.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\a448a594da88886b5dcb34307a0a9fd899b30ecc\\output\\res\\drawable\\round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shopping_cart_black_24dp.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corners.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\1b35d24bf40e204dd487543a529860ee8ef2df23\\output\\res\\drawable\\round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_exit_to_app_black_24dp.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\cd8ab0ca93ee4c2ff971378f729a7ea6fd67edd3\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\3076e71416a7df38089fb420e02ebf3399e1fd4c\\output\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\cd8ab0ca93ee4c2ff971378f729a7ea6fd67edd3\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shopping_cart_black_24dp.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attach_money_black_24dp.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\cd8ab0ca93ee4c2ff971378f729a7ea6fd67edd3\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_exit_to_app_black_24dp.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corners.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e17025444aa4ef80d80afa7e64c8ebba1273e6c3\\output\\res\\drawable\\round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_snackbar_background.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_background.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_access_time_black_24dp.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_exit_to_app_black_24dp.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd699a0af91037521b14c8154559d6591862ca89\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    }
+]

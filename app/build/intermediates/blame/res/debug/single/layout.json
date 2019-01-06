@@ -1,0 +1,926 @@
+[
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchbar.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\1b35d24bf40e204dd487543a529860ee8ef2df23\\output\\res\\layout\\searchbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_detail.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd699a0af91037521b14c8154559d6591862ca89\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchbar.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\a448a594da88886b5dcb34307a0a9fd899b30ecc\\output\\res\\layout\\searchbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_status.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_order_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_layout.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\cart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e17025444aa4ef80d80afa7e64c8ebba1273e6c3\\output\\res\\layout\\searchbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\3076e71416a7df38089fb420e02ebf3399e1fd4c\\output\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_status.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_order_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\food_item.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar_include.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_list.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\food_item.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\cd8ab0ca93ee4c2ff971378f729a7ea6fd67edd3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar_include.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_status.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_order_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_layout.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_detail.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\cart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_cascading_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_cascading_menu_item_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_layout.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\cart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_layout.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_last_request.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\1b35d24bf40e204dd487543a529860ee8ef2df23\\output\\res\\layout\\item_last_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_detail.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_last_request.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\a448a594da88886b5dcb34307a0a9fd899b30ecc\\output\\res\\layout\\item_last_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\9aeb3853186ce93cf78f71603dd37b73609675c3\\output\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\fd699a0af91037521b14c8154559d6591862ca89\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_layout.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\0bdb0ff56145744e3f3f03892f9065851faf4080\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\cca26cd775fe5bf344d8b53e8f2a1b831b15558c\\output\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\cd8ab0ca93ee4c2ff971378f729a7ea6fd67edd3\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\food_item.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_list.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_last_request.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\e17025444aa4ef80d80afa7e64c8ebba1273e6c3\\output\\res\\layout\\item_last_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_list.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_cascading_menu_item_layout.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99930d416bf30ec67fb82e0dbf8644fb1b3f5c8e\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    }
+]

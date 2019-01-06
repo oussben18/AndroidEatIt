@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_text_btn_ripple_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_background_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_ripple_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_ripple_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_bottom_nav_item_tint.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_fab_ripple_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_background_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_text_btn_text_color_selector.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_colored_ripple_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_fab_ripple_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_close_icon_tint.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_close_icon_tint.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_colored_ripple_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_text_color_selector.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_text_btn_text_color_selector.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_text_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_text_btn_ripple_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_icon_color_selector.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_close_icon_tint.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\702c4383dddc517be6ea624503839877470a50f7\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_icon_color_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_bottom_nav_item_tint.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_ripple_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_stroke_color_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_bg_color_selector.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_text_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_stroke_color_selector.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_ripple_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_bg_color_selector.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_ripple_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_icon_color_selector.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_fab_ripple_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_background_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_text_color_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_text_btn_ripple_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_ripple_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_text_color.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_text_btn_text_color_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_stroke_color_selector.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\972756caf6dbc84aa2ec05fe9f304e8eee77d2b7\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_text_color_selector.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_ripple_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_ripple_color.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\1f987f9f5b7713faf9756f46f47ed6419c08fa0c\\output\\res\\color\\mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_tabs_colored_ripple_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\ccde60dd5aca3a9c4cf4fa50c0c4419ebf074103\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_chip_ripple_color.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_bottom_nav_item_tint.xml",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\04877878fa8503f68b6bde38e4f2088541ac740f\\output\\res\\color\\mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\086abd6caa235790e25a2128ee937bd53ac931d5\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color\\mtrl_btn_bg_color_selector.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3c67df8132229aff69ad409e08111b6e6ebd8bdf\\output\\res\\color\\mtrl_btn_bg_color_selector.xml"
+    }
+]

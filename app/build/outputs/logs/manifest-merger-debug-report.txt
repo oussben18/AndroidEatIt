@@ -1,0 +1,332 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\HP GAMER\.android\build-cache\cfe20a94390a8da3d059964c04a2c9bac7932472\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:23:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.android\build-cache\ffded6ae98fb17d70a000148fc436b8ab0bc2d7b\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\HP GAMER\.android\build-cache\63d83a11ee197ab047e81648702027902aef018e\output\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:7:5-36:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.1] C:\Users\HP GAMER\.android\build-cache\1b35d24bf40e204dd487543a529860ee8ef2df23\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\HP GAMER\.android\build-cache\afe46aac26cdd4ceedf952b3b8d72ff47165480f\output\AndroidManifest.xml:12:5-20
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\HP GAMER\.android\build-cache\cca26cd775fe5bf344d8b53e8f2a1b831b15558c\output\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP GAMER\.android\build-cache\7bed225bface33eff34a1816388309428345d1a2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\HP GAMER\.android\build-cache\04877878fa8503f68b6bde38e4f2088541ac740f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\HP GAMER\.android\build-cache\b129b5231c8bace0ff1f5035c506d5efebead1a7\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\HP GAMER\.android\build-cache\472ae7daa4e3bad2786e7950036bd88fa4111067\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\HP GAMER\.android\build-cache\cfe20a94390a8da3d059964c04a2c9bac7932472\output\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HP GAMER\.android\build-cache\ab614417b4a6efcdfe731a1698518dbafa0fc8ee\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\HP GAMER\.android\build-cache\8e1326533779e6426a6e70ef79b11f453a841263\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HP GAMER\.android\build-cache\bedb57188f766e77338f038b7edf0066cf08c750\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HP GAMER\.android\build-cache\f33567b5ca3de40f8e6798debbd38248b1167e9d\output\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HP GAMER\.android\build-cache\413215e2cc41938e5d04dd9d470d8f690bf4ca46\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.android\build-cache\ffded6ae98fb17d70a000148fc436b8ab0bc2d7b\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.android\build-cache\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\output\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HP GAMER\.android\build-cache\435ea2cf68d6e93bc880fbab866afd027b60df19\output\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HP GAMER\.android\build-cache\3156e6e08db60aa4cd2af6d3ebaf11a8a9f9b337\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\HP GAMER\.android\build-cache\c0163699eeeccf7ed0a01a0a7cd31a9f1590da3b\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.android\build-cache\2ba12b710c3a22e5384cc19d650b9f8ca2a5d7bd\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.android\build-cache\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.android\build-cache\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\output\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP GAMER\.android\build-cache\894299450c97b3edc4680d22680871d37b9195ee\output\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:12:9-35
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.android\build-cache\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\output\AndroidManifest.xml:22:18-91
+	android:roundIcon
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:13:9-40
+activity#ensa.dev.androideatit.MainActivity
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:18:27-74
+activity#ensa.dev.androideatit.SignIn
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:21:19-41
+activity#ensa.dev.androideatit.SignUp
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:22:19-41
+activity#ensa.dev.androideatit.Home
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:23:9-26:47
+	android:label
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:25:13-56
+	android:theme
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:24:13-33
+activity#ensa.dev.androideatit.FoodList
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:27:9-46
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:27:19-43
+activity#ensa.dev.androideatit.FoodDetail
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:28:9-48
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:28:19-45
+activity#ensa.dev.androideatit.Cart
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:29:9-42
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:29:19-39
+activity#ensa.dev.androideatit.OrderStatus
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:30:9-49
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:30:19-46
+service#ensa.dev.androideatit.Service.ListenOrder
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:32:9-35:47
+	android:enabled
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:33:13-48
+uses-sdk
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.1] C:\Users\HP GAMER\.android\build-cache\1b35d24bf40e204dd487543a529860ee8ef2df23\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\HP GAMER\.android\build-cache\afe46aac26cdd4ceedf952b3b8d72ff47165480f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\HP GAMER\.android\build-cache\cca26cd775fe5bf344d8b53e8f2a1b831b15558c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP GAMER\.android\build-cache\7bed225bface33eff34a1816388309428345d1a2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\HP GAMER\.android\build-cache\04877878fa8503f68b6bde38e4f2088541ac740f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\HP GAMER\.android\build-cache\0dd1b56d757b4c13c252e54e8727ada24f2586ae\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\HP GAMER\.android\build-cache\b129b5231c8bace0ff1f5035c506d5efebead1a7\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\HP GAMER\.android\build-cache\472ae7daa4e3bad2786e7950036bd88fa4111067\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\HP GAMER\.android\build-cache\cfe20a94390a8da3d059964c04a2c9bac7932472\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HP GAMER\.android\build-cache\ab614417b4a6efcdfe731a1698518dbafa0fc8ee\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\HP GAMER\.android\build-cache\8e1326533779e6426a6e70ef79b11f453a841263\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HP GAMER\.android\build-cache\bedb57188f766e77338f038b7edf0066cf08c750\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HP GAMER\.android\build-cache\f33567b5ca3de40f8e6798debbd38248b1167e9d\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HP GAMER\.android\build-cache\413215e2cc41938e5d04dd9d470d8f690bf4ca46\output\AndroidManifest.xml:20:5-44
+MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\HP GAMER\.android\build-cache\d850389f5eab4240ecd51c17e59016db45657de8\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\HP GAMER\.android\build-cache\cf2477e6af592a5f3c9e8c23163e368fe365805e\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HP GAMER\.android\build-cache\181535eb5d35a4dc9b2b1b54bf84a34d77833642\output\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.android\build-cache\ffded6ae98fb17d70a000148fc436b8ab0bc2d7b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP GAMER\.android\build-cache\4d898b52a48a067bfe9cfa8a7a761fd15a12a5a4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HP GAMER\.android\build-cache\336db5639d1f9c111f563f13cb03e97396f7cf05\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HP GAMER\.android\build-cache\f73e4d852a3dcac9ee42b9cec2986669b2b97686\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HP GAMER\.android\build-cache\9ac5ff12c3c387918ad5f75731709d3a17381f76\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\HP GAMER\.android\build-cache\63d83a11ee197ab047e81648702027902aef018e\output\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.android\build-cache\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HP GAMER\.android\build-cache\435ea2cf68d6e93bc880fbab866afd027b60df19\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HP GAMER\.android\build-cache\3156e6e08db60aa4cd2af6d3ebaf11a8a9f9b337\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\HP GAMER\.android\build-cache\e95fc08121b7308ba0ec9ed5ce1c837022765372\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\HP GAMER\.android\build-cache\c0163699eeeccf7ed0a01a0a7cd31a9f1590da3b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.android\build-cache\2ba12b710c3a22e5384cc19d650b9f8ca2a5d7bd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.android\build-cache\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP GAMER\.android\build-cache\c507ca6dfa34501feac29072adf54744e69fe0d6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HP GAMER\.android\build-cache\3326ca9f43709758d9b351bfc791ec38af6b6697\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HP GAMER\.android\build-cache\69af274296049cc257a48d4a080211d54e8e8b83\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HP GAMER\.android\build-cache\9cbf59e771acbf223faa8ad51b4849658db3287c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HP GAMER\.android\build-cache\74f5b413a1c6dfc58983a97f1b49a6834ceaf8e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HP GAMER\.android\build-cache\68d455d601724d7372f41b906c7fc826209d1bf7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HP GAMER\.android\build-cache\78d9d62bfd3e483c44fee896cc4be872ce84db9a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HP GAMER\.android\build-cache\e6d4001830cc23edcabc1968741b4a6435d41217\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP GAMER\.android\build-cache\618c9a8207ad9df8125788c4a7b0a9ca2d01745b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HP GAMER\.android\build-cache\01e9bc0de9bb685b6b6eeab5725226f6cbe76357\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HP GAMER\.android\build-cache\8fc63a3e440be3819446f596dad4af4c8ff79309\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HP GAMER\.android\build-cache\6a992c36d451f1652aae469d544911c56070771e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HP GAMER\.android\build-cache\1fa371ba12ae196a2b189fc60febe810ceb45562\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HP GAMER\.android\build-cache\dd9fafbb61a5396cf76f2925bb899d9433af7da5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HP GAMER\.android\build-cache\d41063d81f438930c6ec69baae703011cd6b6b29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HP GAMER\.android\build-cache\4c53c027670b37ae196aa0d10357cabcaa9138b0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.android\build-cache\13e9dd0fd9c6f72c762aa4ab2091f1badf7e09c9\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HP GAMER\.android\build-cache\aea63f3c899e94ed4849cf7a776c00b8d3203e69\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP GAMER\.android\build-cache\894299450c97b3edc4680d22680871d37b9195ee\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP GAMER\.android\build-cache\8f8a389c2b39cd7404bd2a88c855de105d2c9768\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP GAMER\.android\build-cache\b0619cb38d9b8bcfb1d1a2873b86a97292e8ea99\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP GAMER\.android\build-cache\ea46c2bcd8831a46cf2def906c16e57efd91869c\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HP GAMER\.android\build-cache\b370dd6a200a60c4d769edf34096bf96f3c9b2b4\output\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.android\build-cache\2ba12b710c3a22e5384cc19d650b9f8ca2a5d7bd\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\HP GAMER\.android\build-cache\cfe20a94390a8da3d059964c04a2c9bac7932472\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\HP GAMER\.android\build-cache\63d83a11ee197ab047e81648702027902aef018e\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\HP GAMER\.android\build-cache\cfe20a94390a8da3d059964c04a2c9bac7932472\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\HP GAMER\.android\build-cache\dd1319151d0d2a8f3be5ebd1c7eba99e718dc048\output\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\HP GAMER\.android\build-cache\cfe20a94390a8da3d059964c04a2c9bac7932472\output\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\HP GAMER\.android\build-cache\cfe20a94390a8da3d059964c04a2c9bac7932472\output\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\HP GAMER\.android\build-cache\c3cdb7275c81033e8d4bd2ebd47ec104f5adecfa\output\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:38:13-78
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.android\build-cache\214b9711070db642a6d702ea5c6b2bff25c3a909\output\AndroidManifest.xml:54:25-77
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.android\build-cache\ffded6ae98fb17d70a000148fc436b8ab0bc2d7b\output\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\HP GAMER\.android\build-cache\c0163699eeeccf7ed0a01a0a7cd31a9f1590da3b\output\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.android\build-cache\ffded6ae98fb17d70a000148fc436b8ab0bc2d7b\output\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.android\build-cache\ffded6ae98fb17d70a000148fc436b8ab0bc2d7b\output\AndroidManifest.xml:15:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.android\build-cache\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\output\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.android\build-cache\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\output\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.android\build-cache\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\output\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.android\build-cache\06595684ea2d8df6cffc77fdfb12c3c0a8df9123\output\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HP GAMER\.android\build-cache\435ea2cf68d6e93bc880fbab866afd027b60df19\output\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HP GAMER\.android\build-cache\435ea2cf68d6e93bc880fbab866afd027b60df19\output\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HP GAMER\.android\build-cache\435ea2cf68d6e93bc880fbab866afd027b60df19\output\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HP GAMER\.android\build-cache\435ea2cf68d6e93bc880fbab866afd027b60df19\output\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HP GAMER\.android\build-cache\435ea2cf68d6e93bc880fbab866afd027b60df19\output\AndroidManifest.xml:11:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.android\build-cache\2ba12b710c3a22e5384cc19d650b9f8ca2a5d7bd\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.android\build-cache\6c365eb55209c38a5aa84e0a6dd74c6c44c30ada\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.android\build-cache\2ba12b710c3a22e5384cc19d650b9f8ca2a5d7bd\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.android\build-cache\2ba12b710c3a22e5384cc19d650b9f8ca2a5d7bd\output\AndroidManifest.xml:27:13-51

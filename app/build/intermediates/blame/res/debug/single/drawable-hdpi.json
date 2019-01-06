@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_eat_it.png",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable-hdpi\\logo_eat_it.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_eat_it.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable-hdpi\\logo_eat_it.png"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\met_ic_clear.png",
+        "source": "C:\\Users\\HP GAMER\\.android\\build-cache\\cf2477e6af592a5f3c9e8c23163e368fe365805e\\output\\res\\drawable-hdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_eat_it.png",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable-hdpi\\logo_eat_it.png"
+    },
+    {
+        "merged": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\HP GAMER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\met_ic_clear.png",
+        "source": "C:\\Users\\user\\.android\\build-cache\\4804fff342b7c80953e829becde0ab63973112fe\\output\\res\\drawable-hdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\met_ic_clear.png",
+        "source": "C:\\Users\\labjo\\.android\\build-cache\\c5f8c2222c8fed0ce8f5904b1909a94cc324b0a4\\output\\res\\drawable-hdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\labjo\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    }
+]
